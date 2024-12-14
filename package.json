@@ -1,0 +1,19 @@
+{
+  "name": "skill",
+  "version": "1.0.0",
+  "description": "\"kamal  node project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "\"kamal\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "kamal"
+  },
+  "keywords": [
+    "k"
+  ]
+}
